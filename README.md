@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CarenYsf
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning Computer Engineering at LAU.
+- 🌱 I’m a computer engineer.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: carenyoussef3@gmail.com
 
